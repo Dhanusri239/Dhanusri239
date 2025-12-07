@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I’m Dhanusri  
+CS Student | Java & DSA Enthusiast
 
-<!--
-**Dhanusri239/Dhanusri239** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Focus
+- Solving DSA problems on LeetCode (arrays, strings, trees, graphs, dynamic programming)  
+- Building mini projects for coursework (e.g., Student Management System)  
+- Planning full-stack and open-source projects
 
-Here are some ideas to get you started:
+## Languages
+- Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Repositories Overview
+- **leetcode/** — DSA solutions with explanations, time/space complexity notes, and structured folder layout  
+
+
+## What You’ll Find Here
+- Clean, well-commented Java code  
+- Problem-solving organized by topic and difficulty  
+- Notes on approach, edge cases, and complexity for each problem
+
+## Progress & Goals
+- Daily practice to strengthen DSA fundamentals  
+- Improve problem-solving speed and efficiency  
+- Document growth with structured repos and well-written code
+
+## Connect
+- GitHub: [https://github.com/Dhanusri239](https://github.com/Dhanusri239)  
+- LinkedIn: https://www.linkedin.com/in/dhanusri-shanmugavelu-a77a742a0/ 
+- Email:sdhanu946@gmail.com
+
