@@ -7,7 +7,7 @@ CS Student | Java & DSA Enthusiast
 - Planning full-stack and open-source projects
 
 ## Languages
-- Java
+- Java,sql
 
 ## Repositories Overview
 - **leetcode/** — DSA solutions with explanations, time/space complexity notes, and structured folder layout  
@@ -17,6 +17,17 @@ CS Student | Java & DSA Enthusiast
 - Clean, well-commented Java code  
 - Problem-solving organized by topic and difficulty  
 - Notes on approach, edge cases, and complexity for each problem
+
+- ## 📊 SQL Data Warehouse Project
+Building a modern data warehouse using Medallion Architecture in SQL Server.
+
+- Bronze layer: raw CSV ingestion
+- Silver layer: cleansing & transformation
+- Gold layer: star schema for analytics
+- Stored procedures for ETL orchestration
+- Data quality checks & documentation
+
+🔗 Repo: https://github.com/Dhanusri239/sql-data-warehouse-project
 
 ## Progress & Goals
 - Daily practice to strengthen DSA fundamentals  
